@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
+    "browser-sync": "^2.18.7",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.3.0",
     "gulp-watch": "^4.3.11",
@@ -16,6 +17,7 @@
     "normalize": "^0.3.1",
     "postcss": "^5.2.12",
     "postcss-import": "^9.1.0",
+    "postcss-mixins": "^5.4.1",
     "postcss-nested": "^1.0.0",
     "postcss-simple-vars": "^3.0.0"
   },
